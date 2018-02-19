@@ -100,6 +100,7 @@
 - http://www.chatprime.com/resources/
 - http://botnerds.com/
 - https://medium.com/chat-bots/non-techies-guide-to-building-bots-part-1-286bc93c92f9
+- https://www.manning.com/books/building-chatbots-with-microsoft-bot-framework-and-nodejs
 
 ## Fund a Bot
 - https://slack.com/developers/fund
